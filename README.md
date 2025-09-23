@@ -6,7 +6,7 @@ Project description (~1 Paragraph)
 
 * [William Terpstra](https://github.com/Watterpstra/CIS350-HW2-Terpstra)
 * [Wyatt Baker](https://github.com/shintorez/CIS350-HW2-Baker)
-* Member 3 (Role 5, Role 6)
+* [Andrew Lee](https://github.com/leeand109/CIS350-HW2-Lee)
 
 # Prerequisites
 
