@@ -17,7 +17,10 @@ We will look to be using Unity as out development platform.
 
 # Estimated Timeline
 
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
+Week of September 22nd to Week of October 6th - Learn Unity Platform
+Week of October 13th to Week of November 10th - Start backend development and complete
+Week of November 17th to Week of Novermber 24th - Start frontend development and complete
+Week of December 1st to Finals Week - Final tweaks/checks and commits
 
 # Anticipated Problems
 
