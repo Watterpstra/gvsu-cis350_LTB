@@ -1,6 +1,6 @@
 # LTB
 
-Project description (~1 Paragraph)
+We will look to be creating a 2-D platformer which will incorporate simple movements and actions, such as a firearm and wall movement. 
 
 # Team Members and Roles
 
