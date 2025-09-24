@@ -1,6 +1,6 @@
-Team name:
+Team name: LTB
 
-Team members:
+Team members: William Terpstra, Wyatt Baker, Andrew Lee
 
 # Introduction
 
@@ -9,7 +9,7 @@ Team members:
 
 # Anticipated Technologies
 
-(What technologies are needed to build this project)
+We will look to be using Unity as out development platform.
 
 # Method/Approach
 
