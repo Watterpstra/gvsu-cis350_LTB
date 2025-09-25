@@ -1,6 +1,6 @@
 # LTB
 
-We will look to be creating a 2-D platformer which will incorporate simple movements and actions, such as a firearm and wall movement. 
+We will look to be creating a 2-D platforming game with both a story mode and a challenge mode, with a functional menu and multiple levels with increasing difficulty throughout the course of the game. 
 
 # Team Members and Roles
 
