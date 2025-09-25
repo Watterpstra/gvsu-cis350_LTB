@@ -6,4 +6,4 @@ Hold a team meeting at least once a week in some format. Copy the following temp
 # Meeting Minutes Documention
 
 Here is a link to all of our Meeting Minutes, the document will contain all instances of meetings.
-[Meeting Minutes](https://docs.google.com/document/d/1Jj_mjimTpzISNbKAPxlWKwD5gmbPP9TlTbKSTYMYsjA/edit?tab=t.0)
+* [Meeting Minutes](https://docs.google.com/document/d/1Jj_mjimTpzISNbKAPxlWKwD5gmbPP9TlTbKSTYMYsjA/edit?tab=t.0)
