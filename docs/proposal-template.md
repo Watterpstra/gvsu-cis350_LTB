@@ -16,7 +16,7 @@ We will also be using the Unity Sprite editor to help make the various character
 
 # Method/Approach
 
-(What is your estimated "plan of attack" for developing this project)
+We will go through and learn the Unity platform as much as possible, and proceed with development of the game threreafter. Funcitonality will be out first priority, while level design and sprites may be added on given we have time. Revision will happen once all functionality and basic sprites/themes have been implemented.
 
 # Estimated Timeline
 
@@ -27,6 +27,6 @@ We will also be using the Unity Sprite editor to help make the various character
 
 # Anticipated Problems
 
-(Describe any problems you foresee that you will need to overcome)
-
-Remember this is a living document is expected to be changed as you make progress on your project.
+* We may have some scheduling issues for collaborating and meeting may be difficult.
+* As we don't have a lot of experience utilizing Unity or C#, our ability to go about the process may bee less efficient.
+* Need to hold all team members accountable based on best responsibilities.
