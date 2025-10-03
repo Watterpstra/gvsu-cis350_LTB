@@ -3,9 +3,11 @@ Team name: LTB
 Team members: William Terpstra, Wyatt Baker, Andrew Lee
 
 # Introduction
+* Our goal is to create a 2d Platformer game which has a Wild west theme with undead enemies. 
+* We will be using the Unity game engine as our platform and iterating off of the standard 2d template that is provided. 
+* There will be 5 levels that will each take the player 5 minutes to get through. 
+* there shall be 10 different weapons to use, the weapons will have unlimited ammo with a time-based reload schedule. 
 
-(In 2-4 paragraphs, describe your project concept)
-(Also define some loosely defined features of your project using bullet points)
 
 # Anticipated Technologies
 
