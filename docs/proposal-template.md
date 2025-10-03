@@ -7,11 +7,12 @@ Team members: William Terpstra, Wyatt Baker, Andrew Lee
 * We will be using the Unity game engine as our platform and iterating off of the standard 2d template that is provided. 
 * There will be 5 levels that will each take the player 5 minutes to get through. 
 * there shall be 10 different weapons to use, the weapons will have unlimited ammo with a time-based reload schedule. 
-
+* The game shall work on Windows and Mac based devices
 
 # Anticipated Technologies
 
 We will look to be using Unity as out development platform.
+We will also be using the Unity Sprite editor to help make the various characters, enemies, and weapons
 
 # Method/Approach
 
