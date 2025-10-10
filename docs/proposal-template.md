@@ -3,20 +3,20 @@ Team name: LTB
 Team members: William Terpstra, Wyatt Baker, Andrew Lee
 
 # Introduction
-* Our goal is to create a 2d Platformer game which has a Wild west theme with undead enemies. 
-* We will be using the Unity game engine as our platform and iterating off of the standard 2d template that is provided. 
+* Our goal is to create a 2D Platformer game which has a Wild West theme with undead enemies. 
+* We will be using the Unity game engine as our platform and iterating off of the standard 2D template that is provided. 
 * There will be 5 levels that will each take the player 5 minutes to get through. 
-* there shall be 10 different weapons to use, the weapons will have unlimited ammo with a time-based reload schedule. 
-* The game shall work on Windows and Mac based devices
+* There shall be 10 different weapons to use, the weapons will have unlimited ammo with a time-based reload schedule. 
+* The game shall work on Windows and Mac based devices.
 
 # Anticipated Technologies
 
-We will look to be using Unity as out development platform.
-We will also be using the Unity Sprite editor to help make the various characters, enemies, and weapons
+We will look to be using Unity as our development platform.
+We will also be using the Unity Sprite editor to help make the various characters, enemies, and weapons.
 
 # Method/Approach
 
-We will go through and learn the Unity platform as much as possible, and proceed with development of the game threreafter. Funcitonality will be out first priority, while level design and sprites may be added on given we have time. Revision will happen once all functionality and basic sprites/themes have been implemented.
+We will go through and learn the Unity platform as much as possible, and proceed with development of the game threreafter. Functionality will be out first priority, while level design and sprites may be added on given we have time. Revision will happen once all functionality and basic sprites/themes have been implemented.
 
 # Estimated Timeline
 
