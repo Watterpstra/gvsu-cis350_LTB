@@ -1,6 +1,5 @@
 # Overview
-<Describe the purpose of this document in 1 paragraph of less … hint: it is
-your SRS>
+This document is meant to organize the full list of requirements for our project. It will be a useful tool to look back on once we get further in the project so that we can always remember what our base-line requirements are. It might also help if our scope gets too large, then we can just look back and try to make the scope smaller to fit the scope we have outlined. This would also work the other way around, as in if our scope gets too small.
 
 # Functional Requirements
 1. <Name of Feature 1>
