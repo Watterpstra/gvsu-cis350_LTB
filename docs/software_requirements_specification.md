@@ -12,7 +12,6 @@ This document is meant to organize the full list of requirements for our project
 
 
 # Non-Functional Requirements
-2. <Name of Feature 1>
-  1. <Non-Functional Requirement 1>
-  2. <Non-Functional Requirement 2>
-  3. <And so on>
+1. The game shall be optimized in a way to not feel clunky
+2. There shall be a quit button to easily quit the game instead of having to forcibly close it.
+3. 
