@@ -7,7 +7,8 @@ This document is meant to organize the full list of requirements for our project
 3. There shall be 5 unique enemies for the player to interact with.
 4. The game shall be moving the player in the four cardinal directions, as well as running and jumping abilities
 5. The game shall have the function to switch between weapons with customizable button choice.
-6. 
+6. The player shall be able to select different levels that they wish to play from the main menu; more levels will be unlocked once they complete the previous ones
+7. The game shall have different bosses at the end of each level.
 
 
 # Non-Functional Requirements
