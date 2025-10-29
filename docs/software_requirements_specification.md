@@ -11,7 +11,7 @@ This document is meant to organize the full list of requirements for our project
 7. The game shall have different bosses at the end of each level.
 8. Each of the 5 enemy types shall have unique movement patterns and attack logic.
 9. The player shall respawn at the beginning of the level or a designated checkpoint upon death.
-10. The game must display a game-over screen when the player's health reaches zero.
+10. The game shall display a game-over screen when the player's health reaches zero.
 
 
 # Non-Functional Requirements
