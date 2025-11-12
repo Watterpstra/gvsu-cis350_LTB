@@ -1,18 +1,37 @@
 Tasks that have been completed
-    Name: 
+    Name: Learning Unity
 
     Description (1 sentence max): 
-
+        Learning the fundamentals of Unity and how we will incorporate everything in our project.
     Expected time to complete: 
-
+        2-3 weeks
     Responsible (person in charge): 
- 
+         Whole team
 
 Tasks that have not yet been completed 
-    Name: 
+    Name: Implementing the weapons
 
     Description (1 sentence max): 
-
+        This would involve implementing the sprites for the weapons, then attaching them to the player, then coding the weapons to actually fire, then animate the bullets coming out of the barrel, and then finally allowing the player to swap between weapons freely.
     Expected time to complete: 
-
+        If done in one day, a few hours
     Responsible (person in charge): 
+        Wyatt
+
+    Name: Textures/sprites
+
+    Description (1 sentence max): 
+        Implementing the textures and sprites for everything in the game, includes weapons, enemies, and the player model.
+    Expected time to complete: 
+        
+    Responsible (person in charge): 
+        Andrew
+
+    Name: Map Design
+
+    Description (1 sentence max): 
+        Creating the levels for the platformer
+    Expected time to complete: 
+        
+    Responsible (person in charge): 
+        William
