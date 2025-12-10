@@ -48,6 +48,7 @@ This document is meant to organize the full list of requirements for our project
 
 # Software Artifacts
 * [Meeting Minutes](https://github.com/user-attachments/files/24087919/Meeting.Minutes.pdf)
-* [Gantt Chart]<img width="2000" height="1125" alt="ganttchart" src="https://github.com/user-attachments/assets/88a1de30-b8c8-4a8e-ac9a-e052bdb70033" />
 *[Jira Board](https://cis-350-ltb.atlassian.net/jira/software/projects/SCRUM/boards/1)
+* [Gantt Chart]<img width="2000" height="1125" alt="ganttchart" src="https://github.com/user-attachments/assets/88a1de30-b8c8-4a8e-ac9a-e052bdb70033" />
+
 
